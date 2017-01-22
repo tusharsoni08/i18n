@@ -1,0 +1,15 @@
+{
+	"common.title.less.than.thousand.chars": "Title should be less then 1000 character",
+	"common.price.greater.equal.zero": "Price should be greater then or equal to 0",
+	"common.prices.should.number": "Price should be a number",
+	"common.price.not.more.five.digits": "Price can not be more than 5 digits",
+	"common.value.cannot.more.nintynine.digits": "Value can not be more than 99 digits",
+	"common.browse.index.file": "Browse index file",
+	"common.upload.folder": "Upload Folder",
+	"common.add.quiz": "Add Quiz",
+	"common.static.quiz": "Static Quiz",
+	"common.new.quiz": "New Quiz",
+	"common.quiz.title": "Quiz Title",
+	"training.training.content": "Training Content",
+	"common.associated.quiz": "Associated Quiz"
+}

@@ -1,0 +1,13 @@
+Value can not be more than 99 digits
+Static Quiz
+Add Quiz
+Browse index file
+Associated Quiz
+Quiz Title
+Price should be a number
+Price should be greater then or equal to 0
+Training Content
+Price can not be more than 5 digits
+Title should be less then 1000 character
+Upload Folder
+New Quiz

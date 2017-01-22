@@ -1,0 +1,13 @@
+O valor não pode ter mais de 99 dígitos
+Quiz Estático
+Adicionar questionário
+Procurar arquivo de índice
+Questionário associado
+Titúlo do Quiz
+O preço deve ser um número
+Preço deve ser maior ou igual a 0
+Conteúdo de treinamento
+O preço não pode ter mais de 5 dígitos
+O título deve ter menos de 1000 caracteres
+Carregar Pasta
+Novo questionário

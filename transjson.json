@@ -1,0 +1,16 @@
+{
+"common.value.cannot.more.nintynine.digits": "O valor não pode ter mais de 99 dígitos",
+"common.static.quiz": "Quiz Estático",
+"common.add.quiz": "Adicionar questionário",
+"common.browse.index.file": "Procurar arquivo de índice",
+"common.associated.quiz": "Questionário associado",
+"common.quiz.title": "Titúlo do Quiz",
+"common.prices.should.number": "O preço deve ser um número",
+"common.price.greater.equal.zero": "Preço deve ser maior ou igual a 0",
+"training.training.content": "Conteúdo de treinamento",
+"common.price.not.more.five.digits": "O preço não pode ter mais de 5 dígitos",
+"common.title.less.than.thousand.chars": "O título deve ter menos de 1000 caracteres",
+"common.upload.folder": "Carregar Pasta",
+"common.new.quiz": "Novo questionário",
+
+}
